@@ -1,0 +1,41 @@
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe.config
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.pdb
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\SimpleWifi.dll
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csprojResolveAssemblyReference.cache
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.Form1.resources
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.Properties.Resources.resources
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csproj.GenerateResource.Cache
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.exe
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.pdb
+C:\Users\ahmad\Desktop\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe.config
+C:\Users\ahmad\Desktop\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.exe
+C:\Users\ahmad\Desktop\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.pdb
+C:\Users\ahmad\Desktop\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe
+C:\Users\ahmad\Desktop\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.pdb
+C:\Users\ahmad\Desktop\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csprojResolveAssemblyReference.cache
+C:\Users\ahmad\Desktop\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.Form1.resources
+C:\Users\ahmad\Desktop\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.Properties.Resources.resources
+C:\Users\ahmad\Desktop\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csproj.GenerateResource.Cache
+C:\Users\Maged Abo Elnasr\Downloads\connection wifi\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe.config
+C:\Users\Maged Abo Elnasr\Downloads\connection wifi\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe
+C:\Users\Maged Abo Elnasr\Downloads\connection wifi\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.pdb
+C:\Users\Maged Abo Elnasr\Downloads\connection wifi\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csprojAssemblyReference.cache
+C:\Users\Maged Abo Elnasr\Downloads\connection wifi\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.Form1.resources
+C:\Users\Maged Abo Elnasr\Downloads\connection wifi\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.Properties.Resources.resources
+C:\Users\Maged Abo Elnasr\Downloads\connection wifi\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csproj.GenerateResource.cache
+C:\Users\Maged Abo Elnasr\Downloads\connection wifi\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csproj.CoreCompileInputs.cache
+C:\Users\Maged Abo Elnasr\Downloads\connection wifi\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csproj.CopyComplete
+C:\Users\Maged Abo Elnasr\Downloads\connection wifi\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.exe
+C:\Users\Maged Abo Elnasr\Downloads\connection wifi\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.pdb
+D:\connection wifi\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe.config
+D:\connection wifi\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe
+D:\connection wifi\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.pdb
+D:\connection wifi\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csprojAssemblyReference.cache
+D:\connection wifi\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.Form1.resources
+D:\connection wifi\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.Properties.Resources.resources
+D:\connection wifi\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csproj.GenerateResource.cache
+D:\connection wifi\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csproj.CoreCompileInputs.cache
+D:\connection wifi\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csproj.CopyComplete
+D:\connection wifi\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.exe
+D:\connection wifi\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.pdb
